@@ -1,9 +1,9 @@
-#Cube Scaper
+# Cube Scaper
     This project is a constraint based 2.5D world generation. 
     It involves a set of tiles in the form of cubical 2.5D isometric geometry and the Wave Function Collapse algorithm (WFC) (Gumin,2016) 
     to place tiles according to the tile set’s connectivity rules.
 
-##To Run:
+## To Run:
     main.py
 
     Dependencies:
@@ -17,10 +17,10 @@
     tile
     tileSetB (default tile set)
 
-##Instructions:
+## Instructions:
     0. Select Mode (Path / Pattern)
 
-##Pattern Mode
+## Pattern Mode
     1. Click on tile to select and place on board
         - green indicates valid location
         - red indicates invalid location
@@ -32,7 +32,7 @@
     7. Press → to rotate board and view from all sides. 
     8. Press R to clear board and tile set. 
 
-##Path Mode 
+## Path Mode 
     1. Press S to set START tile. Click and place on board
     2. Press E to set END tile. Click and place on board
     3. Place other tiles on board.
@@ -41,7 +41,7 @@
     6. Press → to rotate board and view from all sides. 
     7. Press R to clear board and START and END. 
 
-##Keys: 
+## Keys: 
     # At Start Screen
         0 : Pattern Mode
         1 : Path Mode
