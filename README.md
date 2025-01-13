@@ -35,7 +35,8 @@ cube_scaper/
 ├── main.py               # The entry point for running the application
 ├── settings.py           # Defines configuration settings for the app
 ├── tile.py               # Implements the Tile class, representing individual tiles and their properties
-└── tileSetB/             # A directory containing a predefined tile set used in the app
+├── tileSetB/             # A directory containing a predefined tile set used in the app
+└── tileset_design/       # A directory containing the 3D file used to design tiles
 ```
 
 
