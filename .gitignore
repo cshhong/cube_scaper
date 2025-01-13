@@ -1,3 +1,4 @@
 .vscode
 dead/
 __pycache__/
+.DS_Store
