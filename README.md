@@ -1,3 +1,4 @@
+test changes
 # Cube Scaper
     This project is a constraint based 2.5D world generation. 
     It involves a set of tiles in the form of cubical 2.5D isometric geometry and the Wave Function Collapse algorithm (WFC) (Gumin,2016) 
