@@ -1,6 +1,11 @@
 # Cube Scaper
+<p align="center">
 <img src="assets/cubescaper-gif-1.gif" alt="Demo of the pattern generation mode of Cube Scaper" width="500">
+<p>
+
+<p align="center">
 <img src="assets/cubescaper-gif-2.gif" alt="Demo of the path generation mode of Cube Scaper" width="500"><br>
+<p>
 
 **Cube Scaper** is a constraint-based world generation project where tiles can be placed in a 2.5D space according to the tile set’s connectivity rules. It uses cubical 2.5D isometric geometry and the **Wave Function Collapse (WFC)** algorithm (Gumin, 2016).
 
