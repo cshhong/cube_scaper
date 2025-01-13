@@ -30,13 +30,11 @@ python main.py
 cube_scaper/
 ├── cmu_graphics/         # Contains the core graphics module developed by CMU
 ├── cmu_cs3_graphics/     # Provides a wrapper around the CMU graphics module for easier integration
-├── documentation/        # Holds any relevant documentation files for the project
 ├── isometric.py          # Contains functions for handling isometric geometry, crucial for rendering tiles
 ├── main.py               # The entry point for running the application
 ├── settings.py           # Defines configuration settings for the app
 ├── tile.py               # Implements the Tile class, representing individual tiles and their properties
-├── tileSetB/             # A directory containing a predefined tile set used in the app
-└── tileset_design/       # A directory containing the 3D file used to design tiles
+└── tileSetB/             # A directory containing a predefined tile set used in the app
 ```
 
 
